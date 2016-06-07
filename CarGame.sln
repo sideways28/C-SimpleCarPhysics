@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarGame", "CarGame\CarGame.vcxproj", "{FFF48CCA-766C-4A36-B7A1-AE1DC3E7972B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF48CCA-766C-4A36-B7A1-AE1DC3E7972B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFF48CCA-766C-4A36-B7A1-AE1DC3E7972B}.Debug|Win32.Build.0 = Debug|Win32
+		{FFF48CCA-766C-4A36-B7A1-AE1DC3E7972B}.Release|Win32.ActiveCfg = Release|Win32
+		{FFF48CCA-766C-4A36-B7A1-AE1DC3E7972B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
