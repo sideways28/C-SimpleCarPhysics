@@ -1,0 +1,9 @@
+F : Lock  camera on target
+
+Arrow Keys : 
+1: Change Camera Position while locked on target
+2 : Move Camera while camera is not locked on target
+
+WASD : Move Car
+
+T : WireFrame
